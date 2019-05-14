@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <element>
+        <name>百度搜索输入框</name>
+        <pathType>id</pathType>
+        <pathValue>kw</pathValue>
+    </element>
+    <element id = "email">
+        <name>email</name>
+        <pathType>class_name</pathType>
+        <pathValue>123 </pathValue>
+    </element>
+    <element id = "password">
+        <name>password</name>
+        <pathType>xpath</pathType>
+        <pathValue>1234</pathValue>
+    </element>
+    <element>
+        <name>百度一下按钮</name>
+        <pathType>id</pathType>
+        <pathValue>su</pathValue>
+    </element>
+</page>
